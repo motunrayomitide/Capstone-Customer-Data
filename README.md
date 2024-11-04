@@ -5,4 +5,43 @@
 
 ## Project Overview
 
-This Project involves analyzing customer data for a subscription service to identify segments and trends. the goal is to understand customer behaviour, track Subscription types and identify key trends in cancellation and renewals.
+This Project involves analyzing customer data for a subscription service to identify segments and trends. the goal is to understand customer behaviour, track Subscription types and identify key trends in cancellation and renewals. This analysis focuses on understanding customer behavior in relation to sudscription, the Subscription types and the most popular subscription types, and the cancellation and renewal trends.
+
+
+## Key Metrics
+* Region:
+* Revenue
+* Subscription types
+* Subscription Starts
+* Subcription Ends
+* Cancelation
+
+
+## Data Cleaning and Preparation
+1. Remove Duplicates
+2. Handle missing Values
+3. Convert dates
+4. convert Cancelled column to 1 or 0.
+
+
+## Tools used
+1. Microsoft Excel
+   * For Cleaning
+   * For Analysis
+   * For Visualization
+2. SQL query
+3. Powerbi
+   * For Visualization
+   * For Analysis
+   * For Dashboard Creation
+  
+
+## Explorative Data Analysis
+This involves the exploring of the data to answer some of these questions
+* What is the Subcription Pattern
+* what is the average subscription Duratiom
+* what is the most popular subscription type
+
+
+
+## Visual Analysis and Inferences.
