@@ -21,7 +21,7 @@ This Project involves analyzing customer data for a subscription service to iden
 1. Remove Duplicates
 2. Handle missing Values
 3. Convert dates
-4. convert Cancelled column to 1 or 0.
+4. Convert Cancelled column to 1 or 0.
 
 
 ## Tools used
