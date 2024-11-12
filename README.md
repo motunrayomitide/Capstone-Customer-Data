@@ -9,12 +9,13 @@ This Project involves analyzing customer data for a subscription service to iden
 
 
 ## Key Metrics
-* Region:
-* Revenue
-* Subscription types
-* Subscription Starts
-* Subcription Ends
-* Cancelation
+* Region: Geographical location of the subscriber
+* Revenue: Total revenue generated from the subscription
+* Subscription Type: Type of subscription 
+* Subscription Start Date: Date when the subscription began
+* Subscription End Date: Date when the subscription ended
+* Cancellation: Subscribers that cancelled their subscription
+
 
 
 ## Data Cleaning and Preparation
