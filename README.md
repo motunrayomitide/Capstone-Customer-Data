@@ -46,3 +46,38 @@ This involves the exploring of the data to answer some of these questions
 
 
 ## Visual Analysis and Inferences.
+
+
+
+
+## SQL QUERY
+In the sql query file below, queries were used to extract some information and the following results were found
+1. Total number of custonmers from ech regions
+   * East 5
+   * North 5
+   * South 5
+   * West 5
+2. Most popular Subscription type is BASIC
+3. Customers who canceled within 6 months are
+   *202
+   *217
+   *206
+4. Average subscription duration for all customer is 365
+5. Customers with subscription longer than 12 months (None)
+6. Total revenue by subscription type
+   * Basic 99.9b
+   * Premiun 49.6b
+   * Standard 49.5b
+7. Top 3 region by Subscription Cancelation
+   * North 14932
+   * South 14905
+   * West 14812
+8. Total number of active subscription is
+   * Basic 34893
+   * Premiun 9895
+   * Standard 9895
+b. Cancelled Subscription
+   * Basic 14932
+   * Premium 14905
+   * Standard 14812
+   
