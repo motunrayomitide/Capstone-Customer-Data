@@ -22,7 +22,6 @@ This Project involves analyzing customer data for a subscription service to iden
 1. Remove Duplicates
 2. Handle missing Values
 3. Convert dates
-4. Convert Cancelled column to 1 or 0.
 
 
 ## Tools used
@@ -80,4 +79,12 @@ b. Cancelled Subscription
    * Basic 14932
    * Premium 14905
    * Standard 14812
+  
+
+![sql query1](https://github.com/user-attachments/assets/98ba903d-f3e4-44af-aa3f-e2a3308f561a)
+
+![query 2](https://github.com/user-attachments/assets/75c98ab0-f448-4b20-847a-f02b2eee5349)
+
+![query 3](https://github.com/user-attachments/assets/915e7e93-dea7-475b-8760-143687e9f7a8)
+
    
