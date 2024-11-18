@@ -46,6 +46,15 @@ This involves the exploring of the data to answer some of these questions
 
 ## Visual Analysis and Inferences.
 
+TOTAL REVENUE BY REGION
+![REV BY REG SUB](https://github.com/user-attachments/assets/b94c95d4-6ba6-4d0c-b95e-70372fa8607d)
+
+
+REVENUE BY SUBSCRIPTION TYPE
+![REV BY SUB TYPE](https://github.com/user-attachments/assets/a7119ed4-885d-44d4-9a53-82dc8e3449d4)
+
+
+
 
 
 
@@ -75,6 +84,7 @@ In the sql query file below, queries were used to extract some information and t
    * Basic 34893
    * Premiun 9895
    * Standard 9895
+     
 b. Cancelled Subscription
    * Basic 14932
    * Premium 14905
