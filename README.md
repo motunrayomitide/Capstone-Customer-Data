@@ -64,7 +64,7 @@ REVENUE BY SUBSCRIPTION TYPE
 ---
 ## SQL QUERY
 In the sql query file below, queries were used to extract some information and the following results were found
-1. Total number of custonmers from ech regions
+1. Total number of customers from each regions
    * East 5
    * North 5
    * South 5
@@ -89,7 +89,7 @@ In the sql query file below, queries were used to extract some information and t
    * Premiun 9895
    * Standard 9895
      
-b. Cancelled Subscription
+b. Canceled Subscription
    * Basic 14932
    * Premium 14905
    * Standard 14812
