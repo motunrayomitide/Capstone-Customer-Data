@@ -101,4 +101,9 @@ b. Cancelled Subscription
 
 ![query 3](https://github.com/user-attachments/assets/915e7e93-dea7-475b-8760-143687e9f7a8)
 
+
+---
+## POWERBI DASHBOARD
+
+
    
